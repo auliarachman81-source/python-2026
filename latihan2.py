@@ -1,0 +1,12 @@
+nis = input("Masukan Nis : ")
+nama = input("Masukan Nama : ")
+kelas = input("Masukan Kelas : ")
+jurusan = input("Masukan Jurusan : ")
+alamat = input("Masukan Alamat : ")
+
+print("\n=== DATA SISWA ===")
+print("NIS     :", nis)
+print("Nama    :", nama)
+print("Kelas   :", kelas)
+print("Jurusan :", jurusan)
+print("Alamat  :", alamat)
